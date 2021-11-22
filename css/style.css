@@ -1,7 +1,16 @@
+@media only screen and (max-width: 600px) {
+   .navbar-brand{
+
+    font-size: 4vw;
+
+   }
+
+
+  }
 .img-fluid{
 
 width: 100%;
-height: 1080px;
+height: 100%;
 }
 .carousel-inner>.item {
     -webkit-transition: 5s ease-in-out left;
@@ -11,4 +20,5 @@ height: 1080px;
     -o-transition: 5s, ease-in-out, left;
     transition: 5s, ease-in-out, left;
     }
+
 
