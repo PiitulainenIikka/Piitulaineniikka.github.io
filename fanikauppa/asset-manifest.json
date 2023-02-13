@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fanikauppa/static/css/main.2f59ee6e.css",
-    "main.js": "/fanikauppa/static/js/main.1ac30234.js",
+    "main.css": "/fanikauppa/static/css/main.773dca1d.css",
+    "main.js": "/fanikauppa/static/js/main.e36ec056.js",
     "static/media/mainsmall.png": "/fanikauppa/static/media/mainsmall.5bc56c0378d59de69e7b.png",
     "static/media/mainXL.png": "/fanikauppa/static/media/mainXL.d6c952fe28e54298776b.png",
     "index.html": "/fanikauppa/index.html",
-    "main.2f59ee6e.css.map": "/fanikauppa/static/css/main.2f59ee6e.css.map",
-    "main.1ac30234.js.map": "/fanikauppa/static/js/main.1ac30234.js.map"
+    "main.773dca1d.css.map": "/fanikauppa/static/css/main.773dca1d.css.map",
+    "main.e36ec056.js.map": "/fanikauppa/static/js/main.e36ec056.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f59ee6e.css",
-    "static/js/main.1ac30234.js"
+    "static/css/main.773dca1d.css",
+    "static/js/main.e36ec056.js"
   ]
 }
