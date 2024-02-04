@@ -1,0 +1,14 @@
+:root {
+	--grad-1: rgb(165 180 252);
+	--grad-2: rgb(99 102 241);
+}
+html {
+	scroll-behavior: smooth;
+}
+body {
+	background-color: rgb(17 24 39);
+}
+
+nav {
+	z-index: 1000;
+}

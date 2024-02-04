@@ -1,0 +1,36 @@
+{
+	"projects": [
+		{
+			"id": "1",
+			"title": "Fanikauppa sivusto",
+			"description": "Ensimmäinen React harjoitustyö. Tässä harjoitustyössä oli käytössä monenlaisia tekniikoita ja kirjastoja. Backendinä toimi express ja query builderina toimii knex. Frontissa oli React typescriptillä ja tyylitys on tehty tailwindcss käyttäen. Web sovellus pyörii dockerin päällä ja sitä käytetään julkaisussa. Sovelluksesta löytyy paljon ominaisuuksia kuten koko kohtaiset määrät, ostoskori ja tilauksen lähetys",
+			"link": "/fanikauppa/index.html",
+			"image": "/images/fanikauppa.png",
+			"skills": ["react", "typescript", "javascript", "docker", "tailwindcss"]
+		},
+		{
+			"id": "4",
+			"title": "WorldSkills 2024 karsinta tehtävä",
+			"description": "WorldSkills Lyon 2024 karsinta tehtävä, jossa piti luoda ja suunnitella sivusto P-media yritykselle. Tehtävässä ei saanut käyttää mitään muuta kuin html ja css.",
+			"link": "https://piitulaineniikka.github.io/worldskills",
+			"image": "/images/pmediasite.png",
+			"skills": ["html", "css"]
+		},
+		{
+			"id": "2",
+			"title": "Tapahtumat php harjoitustyö",
+			"description": "Koulun harjoitustyö, jossa käytin mysql tietokantaa. Sivustolla voi lisätä ja katsoa tulevia tapahtumia.",
+			"link": "http://tapahtumat.iikpii21.treok.io/",
+			"image": "/images/Tapahtumat.png",
+			"skills": ["php", "mysql", "css"]
+		},
+		{
+			"id": "3",
+			"title": "Peliarvostelut php harjoitustyö",
+			"description": "Koulun hyvin alkuvaiheessa tehty php harjoitustyö, jossa käytin mysql tietokantaa. Sivustolla voi lukea ja lisätä peliarvosteluja.",
+			"link": "https://peliarvostelut.iikpii21.treok.io/",
+			"image": "/images/Peliarvostelut.png",
+			"skills": ["php", "mysql", "css"]
+		}
+	]
+}

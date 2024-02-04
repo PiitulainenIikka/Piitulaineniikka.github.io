@@ -1,0 +1,31 @@
+{
+	"jobs": [
+		{
+			"id": "3",
+			"title": "Alfons Digital & Alfons Education",
+			"description": "Työni alkoivat Alfons digitalilla 2023 toukouussa oppisopimuksen merkeissä ja näin jatkui, kunnes sain kouluni päätökseen 2023 jouluna ja tämän jälkeen sain määräaikaisen työsopimuksen. Työtehtäviini kuuluu ohjelmistokehitys. Työtehtävissäni käytän mm. Vue.js, JavaScript, PHP, Laravel ja SASS  teknologioita.",
+			"type": "Oppisopimus | Määräaikainen",
+			"from": "Toukokuu 2023",
+			"to": "Nykyhetki",
+			"skills": ["vue", "javascript", "php", "laravel", "sass"]
+		},
+		{
+			"id": "2",
+			"title": "Corpenet Oy",
+			"description": "Ohjelmoin frontendiä käyttäen reactia ja typescriptiä. Töissä ollessani tuli myös tutuksi erilaiset javascript kirjastot. Myös komponentti kirjasto kendo react ui tuli tutuksi",
+			"type": "Työharjoittelu",
+			"from": "Lokakuu 2022",
+			"to": "Joulukuu 2022",
+			"skills": ["react", "typescript", "sass"]
+		},
+		{
+			"id": "1",
+			"title": "Säästäpankkiryhmä",
+			"description": "Työn kuvaan kuului web sovelluksen toteutus alusta loppuun ja ylläpitäminen. Sovelluksen Ohjelmointi tapahtui käyttäen php ja javascriptiä.",
+			"type": "Freelance",
+			"from": "Kesäkuu 2022",
+			"to": "Lokakuu 2022",
+			"skills": ["php", "mysql", "bootstrap", "css"]
+		}
+	]
+}
