@@ -4,4 +4,5 @@ export default defineNuxtConfig({
 	modules: ["@nuxtjs/tailwindcss"],
 	css: ["~/assets/styles/main.css"],
 	title: "Portfolio",
+	ssr: true,
 });
