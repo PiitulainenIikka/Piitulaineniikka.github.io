@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 :root {
 	--grad-1: rgb(165 180 252);
 	--grad-2: rgb(99 102 241);
