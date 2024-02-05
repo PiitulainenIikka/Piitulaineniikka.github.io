@@ -3,10 +3,10 @@
 		<h1 class="text-3xl font-extrabold text-white sm:text-4xl md:text-5xl mb-10">
 			Projektit
 		</h1>
-		<div class="flex-col md:flex-row flex gap-10">
+		<div class="flex-col-reverse md:flex-row flex gap-10">
 			<div class="selected-project-container">
 				<div
-					class="selected-project flex flex-col md:flex-row gap-5 justify-between w-full"
+					class="selected-project flex flex-col-reverse md:flex-row gap-5 justify-between w-full"
 					v-for="project in projects"
 					:key="project.id"
 					:class="selectedProject === project.id && 'selected-project-active'">
@@ -242,7 +242,24 @@ div.projects-list:hover:after {
 	justify-content: space-between;
 	align-items: center;
 }
+@media screen and (max-width: 768px) {
+	/* disable gradients in small screen */
 
+	.selected-project-container:before,
+	div.projects-list:before,
+	div.projects-list:after {
+		display: none;
+	}
+	.projects {
+		padding: 0;
+	}
+	.selected-project {
+		margin-left: 0px;
+	}
+	.project-details {
+		padding-left: 0;
+	}
+}
 /* Slide Animation 
 	Make the old element slide out and fade out to the right and the new element slide in from the right
 */
