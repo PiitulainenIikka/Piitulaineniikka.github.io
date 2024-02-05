@@ -4,9 +4,4 @@ export default defineNuxtConfig({
 	modules: ["@nuxtjs/tailwindcss"],
 	css: ["~/assets/styles/main.css"],
 	ssr: true,
-	app: {
-		head: {
-			title: "Iikka Piitulainen - Portfolio",
-		},
-	},
 });
