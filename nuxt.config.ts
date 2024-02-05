@@ -7,11 +7,6 @@ export default defineNuxtConfig({
 	ssr: true,
 	// add title to head 
 	head: {
-		title: "Iikka Piitulainen - Portfolio",
-		meta: [
-			{ charset: "utf-8" },
-			{ name: "viewport", content: "width=device-width, initial-scale=1" },
-			{ hid: "description", name: "description", content: "Iikka Piitulainen - Software Developer and Portfolio" },
-		],
-	},
+		title: "Iikka Piitulainen - Portfolio"
+	}
 });
