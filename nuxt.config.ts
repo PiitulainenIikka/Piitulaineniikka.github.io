@@ -2,6 +2,6 @@
 export default defineNuxtConfig({
 	devtools: { enabled: true },
 	modules: ["@nuxtjs/tailwindcss"],
-	css: ["/styles/main.css"],
+	css: ["~/assets/styles/main.css"],
 	ssr: true
 });
