@@ -13,4 +13,5 @@ export default defineNuxtConfig({
 				{ hid: "description", name: "description", content: "Iikka Piitulainen - Portfolio" },
 			],
 		},
+	},
 });
