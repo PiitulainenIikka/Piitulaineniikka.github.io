@@ -15,6 +15,10 @@ export default defineNuxtConfig({
 					name: "description",
 					content: "Iikka Piitulainen portfolio",
 				},
+				{
+					name: "google-site-verification",
+					content: "AFkmfxbqB4lld8dFOsaXm49qKYw8Gll5bvudAoK2ljA",
+				},
 			],
 			htmlAttrs: {
 				lang: "fi",
