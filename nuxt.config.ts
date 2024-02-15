@@ -25,8 +25,7 @@ export default defineNuxtConfig({
 			},
 		},
 	},
-	sitemap: {
-		hostname: "https://piitulaineniikka.github.io",
-		lastmod: '2024-02-15'
+	site: {
+		url: 'https://piitulaineniikka.github.io',
 	}
 });
