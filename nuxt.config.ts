@@ -1,7 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
 	devtools: { enabled: true },
-	modules: ["@nuxtjs/tailwindcss", "@nuxtjs/sitemap"],
+	modules: ["@nuxtjs/tailwindcss", "@nuxtjs/sitemap", "nuxt-simple-robots"],
 	css: ["~/assets/styles/index.css"],
 	ssr: true,
 	app: {
