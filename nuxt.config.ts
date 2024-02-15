@@ -1,7 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
 	devtools: { enabled: true },
-	modules: ["@nuxtjs/tailwindcss"],
+	modules: ["@nuxtjs/tailwindcss", "@nuxtjs/sitemap"],
 	css: ["~/assets/styles/index.css"],
 	ssr: true,
 	app: {
@@ -25,4 +25,8 @@ export default defineNuxtConfig({
 			},
 		},
 	},
+	sitemap: {
+		hostname: "https://piitulaineniikka.github.io",
+		lastmod: '2024-02-15'
+	}
 });
