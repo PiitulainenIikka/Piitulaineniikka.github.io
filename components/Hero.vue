@@ -1,6 +1,6 @@
 <template>
 	<div class="hero">
-		<img class="hero-image" src="/assets/images/banner1.jpg" alt="Hero Image" />
+		<img class="hero-image" src="/assets/images/banner1.jpg" alt="Web development" />
 		<h1 class="font-extrabold text-white hero-content">
 			Iikka Piitulainen | Ohjelmistokehittäjä
 		</h1>
