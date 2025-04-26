@@ -19,6 +19,12 @@
 								class="mt-3 live-demo-button bg-indigo-500 hover:bg-indigo-600 text-white font-bold py-2 px-4 rounded hover:cursor-pointer hover:underline"
 								>Live Demo
 							</a>
+							<a
+								v-if="project.link_to_source"
+								:href="project.link_to_source"
+								class="mt-3 live-demo-button bg-indigo-500 hover:bg-indigo-600 text-white font-bold py-2 px-4 rounded hover:cursor-pointer hover:underline"
+								>Lähdekoodi
+							</a>
 						</div>
 					</div>
 					<div class="block w-4/5">

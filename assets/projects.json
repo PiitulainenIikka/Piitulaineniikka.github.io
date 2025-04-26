@@ -6,6 +6,7 @@
 			"description": "Ensimmäinen React harjoitustyö. Tässä harjoitustyössä oli käytössä monenlaisia tekniikoita ja kirjastoja. Backendinä toimi express ja query builderina toimii knex. Frontissa oli React typescriptillä ja tyylitys on tehty tailwindcss käyttäen. Web sovellus pyörii dockerin päällä ja sitä käytetään julkaisussa. Sovelluksesta löytyy paljon ominaisuuksia kuten koko kohtaiset määrät, ostoskori ja tilauksen lähetys",
 			"link": "/fanikauppa/index.html",
 			"image": "/images/fanikauppa.png",
+			"link_to_source": "https://github.com/PiitulainenIikka/fani-verkkokauppa",
 			"skills": ["react", "typescript", "javascript", "docker", "tailwindcss"]
 		},
 		{
@@ -31,6 +32,14 @@
 			"link": "https://peliarvostelut.iikpii21.treok.io/",
 			"image": "/images/Peliarvostelut.png",
 			"skills": ["php", "mysql", "css"]
+		},
+		{
+			"id": "5",
+			"title": "Markkinointi sivusto yritykselle",
+			"description": "Työnä oli suunnitella ja toteuttaa markkinointi sivusto yritykselle. Sivusto on toteutettu wordpressillä ja sen päälle on tehty teema. Teemaan on lisätty myös custom blockkeja, jotka on toteutettu gutenbergillä.",
+			"link": "https://www.vjfix.fi/",
+			"image": "/images/vjfix.png",
+			"skills": ["wordpress", "php", "css", "javascript"]
 		}
 	]
 }
