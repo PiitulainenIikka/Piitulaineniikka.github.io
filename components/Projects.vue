@@ -245,8 +245,8 @@ div.projects-list:hover:after {
 .project-details .project-footer {
 	margin-top: auto;
 	display: flex;
-	justify-content: space-between;
 	align-items: center;
+	gap: 10px;
 }
 @media screen and (max-width: 768px) {
 	/* disable gradients in small screen */
